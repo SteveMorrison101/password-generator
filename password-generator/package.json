@@ -1,0 +1,19 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Allows users to generate passwords with specifiying the password length and if they want it to be all lowercase or lowercase and uppercase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "password-generator": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMorrison101/password-generator"
+  },
+  "author": "Stephen Morrison",
+  "license": "ISC",
+  "homepage": "https://github.com/SteveMorrison101/password-generator/blob/main/README.md"
+}
